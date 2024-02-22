@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Machal</h1>
 <img src="https://github.com/princemachal171/princemachal171/blob/main/Gaming%20and%20more%E2%80%A6.gif" alt="logo" width="1000" height="333">
 <h2 align="center">"Exploring Data Science Frontiers: A Journey of Passion and Code"</h2>
-<img align="right" alt = "coding" width="400" src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif">
+<img align="right" alt = "coding" width="400" src="https://github.com/princemachal171/princemachal171/blob/main/Debbie%20Balboa.gif">
 
 - 🌱 I’m currently learning and Exploring **Data Science, AI/ML/DL and Web devlopment**
 
