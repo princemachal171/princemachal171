@@ -1,4 +1,4 @@
-<h3 align="center">"Exploring Data Science Frontiers: A Journey of Passion and Code"</h3>
+<h2 align="center">"Exploring Data Science Frontiers: A Journey of Passion and Code"</h2>
 <img align="right" alt = "coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 - 🌱 I’m currently learning and Exploring **Data Science, AI/ML/DL and Web devlopment**
