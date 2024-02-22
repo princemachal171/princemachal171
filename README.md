@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/34/ea/08/34ea0889754b25389bb9a1c4dc0c666e.gif)
 <h1 align="center">Hi 👋, I'm Prince Machal</h1>
 <h2 align="center">"Exploring Data Science Frontiers: A Journey of Passion and Code"</h2>
 <img align="right" alt = "coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
