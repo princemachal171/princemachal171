@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **pmachal101723@gmail.com**
 
-- 📄 Here is My Resume [https://drive.google.com/file/d/1tWBlxOaz0I9mQt-dgXcFl0waPsZOiJ6Z/view?usp=drive_link](https://drive.google.com/file/d/1tWBlxOaz0I9mQt-dgXcFl0waPsZOiJ6Z/view?usp=drive_link)
-
+- 📄 Here is My Resume [Resume_Prince_Machal](https://drive.google.com/file/d/1nN9JE8YNfylF-2WAXsqynkx8PXJ8yFb4/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/princemachal171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princemachal171" height="30" width="40" /></a>
